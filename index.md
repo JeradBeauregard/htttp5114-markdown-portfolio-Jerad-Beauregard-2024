@@ -7,5 +7,5 @@ BFA Drawing and Painting OCAD University, Post-Graduate Certificate Concept Art 
 ## My Self Portraits
 
 | Goblin Jerad | Normal Jerad |
-------------------------------------------------------------------------
- | ![Goblin Jerad](./images/jerad.jpg) | ![Jerad](./images/jerad.jpg) |
+---------------------------------------|---------------------------------
+ | ![Goblin Jerad](./images/jerad.jpg) | ![Jerad](./images/goblin.jpg) |
