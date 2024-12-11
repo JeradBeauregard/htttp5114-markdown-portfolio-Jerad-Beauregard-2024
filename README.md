@@ -4,4 +4,6 @@ This project contains a markdown web portfolio that includes a short bio, some a
 
 
 [link to portfolio](https://jeradbeauregard.github.io/htttp5114-markdown-portfolio-Jerad-Beauregard-2024/)
+
+
 ![meme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ840Qiyv0kWnEd9R61yBiS1Fa23-7aLxp6qQ&s)
