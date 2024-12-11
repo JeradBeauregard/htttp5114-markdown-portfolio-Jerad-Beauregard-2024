@@ -1,4 +1,11 @@
-# Jerad Beauregard's Markdown Portfolio
+# Jerad Beauregard's Markdown Portfolio Home
+
+## Links
+
+[Contact Me](./contact.md)
+[My Projects](./projects.md)
+
+
 
 ## About me
 
@@ -8,4 +15,4 @@ BFA Drawing and Painting OCAD University, Post-Graduate Certificate Concept Art 
 
 | Goblin Jerad | Normal Jerad |
 ---------------------------------------|---------------------------------
- | ![Goblin Jerad](./images/jerad.jpg) | ![Jerad](./images/goblin.jpg) |
+ | ![Goblin Jerad](./images/goblin.png) | ![Jerad](./images/jerad.jpg) |
