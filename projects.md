@@ -1,5 +1,5 @@
 # Jerad Beauregard's Markdown Portfolio Projects
-
+![banner](./images/banner.png)
 ## Links
 
 [Contact Me](./contact.md)
